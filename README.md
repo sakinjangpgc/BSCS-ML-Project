@@ -1,8 +1,8 @@
 # BSCS-ML-Project
 # Machine Learning Projects
 # No.	Project	Algorithm	Notebook
-# 1 [	Air Quality Classification	Decision Stump	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Customer%20Churn%20Prediction%20Using%20Gradient%20Boosting%20Algorithm.ipynb)
-# 2	[Customer Churn Prediction	Gradient Boosting	View Project]
+# 1 [	Air Quality Classification	Decision Stump	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Air%20Quality%20Classification%20Using%20Decision%20Stump.ipynb)
+# 2	[Customer Churn Prediction	Gradient Boosting	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Customer%20Churn%20Prediction%20Using%20Gradient%20Boosting%20Algorithm.ipynb)
 # 3	[Email Classification	Extra Trees Classifier	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Email%20classification%20using%20extra%20tree%20algorithm.ipynb)
 # 4	[Handwritten Digit Recognition	K-Nearest Neighbors (KNN)	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Handwritten%20Digit%20Recognition%20Using%20K-Nearest%20Neighbours(KNN).ipynb)
 # 5	[Market Basket Analysis	Apriori Algorithm	View Project](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Market%20Basket%20Analysis%20Using%20Aprori%20Algorithm.ipynb)
