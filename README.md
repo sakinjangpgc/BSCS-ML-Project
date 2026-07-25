@@ -1,6 +1,6 @@
 # BSCS-ML-Project
 # Machine Learning Projects
-# ============================================================================
+# ===================================
 ## 1 [	Air Quality Classification	Using Decision Stump](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Air%20Quality%20Classification%20Using%20Decision%20Stump.ipynb)
 ## 2	[Customer Churn Prediction	Using Gradient Boosting	](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Customer%20Churn%20Prediction%20Using%20Gradient%20Boosting%20Algorithm.ipynb)
 ## 3	[Email Classification	using Extra Trees Classifier	](https://github.com/sakinjangpgc/BSCS-ML-Project/blob/main/Email%20classification%20using%20extra%20tree%20algorithm.ipynb)
